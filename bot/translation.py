@@ -5,13 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<b>ഞാൻ</b> <b><a href="https://t.me/Film_House2">🔰𝐅𝐢𝐥𝐦𝐇𝐨𝐮𝐬𝐞🔰</a></b><b>എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ്
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+നോക്കണ്ടാ എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
 
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ </b> <b><a href="https://t.me/SB_KunJava_2">Sʙ᭄Kᴜɴᴊᴀᴠᴀ࿐</a></b>..
+"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
